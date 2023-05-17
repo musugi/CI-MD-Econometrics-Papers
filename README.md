@@ -16,14 +16,16 @@
   - `CI`: Causal Inference
   - `E-met` : Econometrics
   - `MD`: Mechanism Design
-  - `HCD`: Human Centered Design
+  - `HCD/UX`: Human Centered Design/User Experience
 
-- 学会等
-  - `TBD`: To Be Determined <br>
+- 出典元等
+  - `AER`: The American Economic Review 
+  - `NN/g`: Nielsen Norman Group <br>
   etc.
   
 - 出版年
-  - `2022` <br>
+  - `2010`
+  - `2023` <br>
   etc.
 
 
