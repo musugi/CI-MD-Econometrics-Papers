@@ -1,8 +1,8 @@
 # CI-MD-Econometrics-Papers
-広くEconometricsやMechanism DesignにおけるCausal Inferenceに関する論文のサマリーを管理するレポジトリです。
+広くEconometricsやMechanism DesignにおけるCausal Inference並びにHCDに関する論文や記事のサマリーを管理するレポジトリです。
 
 ## Research areas
-おおよそ以下に属する研究についての論文を取り上げる予定です。
+おおよそ以下に属する研究についての論文や記事を取り上げる予定です。
 
 - Causal Inference
 - Econometrics
@@ -10,8 +10,7 @@
 - Human Centered Design
 
 ## Paper summary
-論文のサマリーはIssueにまとめます。
-各サマリーには、以下のタグ付けをします。
+論文や記事のサマリーはIssueにまとめます。各サマリーには、以下のタグ付けをします。
 
 - 分野
   - `CI`: Causal Inference
@@ -20,15 +19,7 @@
   - `HCD`: Human Centered Design
 
 - 学会等
-  - `NeurIPS`: Neural Information Processing Systems
-  - `ICML`: International Conference on Machine Learning
-  - `AAAI`: AAAI Conference on Artificial Intelligence
-  - `KDD`: International Conference on Knowledge Discovery and Data Mining
-  - `ICDM`: IEEE International Conference on Data Mining
-  - `Recsys`: ACM Recommender Systems Conference 
-  - `WSDM`: International Conference on Web Search and Data Mining
-  - `SIGIR`: International ACM SIGIR Conference on Research and Development in Information Retrieval
-  - `CIKM`:  ACM International Conference on Information and Knowledge Management <br>
+  - `TBD`: To Be Determined <br>
   etc.
   
 - 出版年
