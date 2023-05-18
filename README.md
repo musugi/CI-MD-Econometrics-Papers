@@ -20,7 +20,8 @@
 
 - 出典元等
   - `AER`: The American Economic Review 
-  - `NN/g`: Nielsen Norman Group <br>
+  - `NN/g`: Nielsen Norman Group 
+  - `MED`: Medium <br>
   etc.
   
 - 出版年
