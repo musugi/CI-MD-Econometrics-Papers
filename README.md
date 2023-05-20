@@ -20,6 +20,7 @@
 
 - 出典元等
   - `AER`: The American Economic Review 
+  - `BFI-WP`: Becker Friedman Institute of Economics Work Paper
   - `NN/g`: Nielsen Norman Group 
   - `MED`: Medium <br>
   etc.
