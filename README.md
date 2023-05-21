@@ -1,4 +1,4 @@
-# CI-MD-E-met-HCD/UX-Papers
+# Research-Interest-Papers
 広くEconometricsやMechanism DesignにおけるCausal Inference並びにHCDに関する論文や記事のサマリーを管理するレポジトリです。
 
 ## Research areas
@@ -14,7 +14,7 @@
 
 - 分野
   - `CI`: Causal Inference
-  - `E-met` : Econometrics
+  - `E_met` : Econometrics
   - `MD`: Mechanism Design
   - `HCD/UX`: Human Centered Design/User Experience
 
